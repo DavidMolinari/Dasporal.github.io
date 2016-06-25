@@ -1,0 +1,58 @@
+body,
+li {
+    background-color: #393939;
+}
+
+h3,
+p,
+input,
+textarea,
+#working {
+    color: white;
+}
+
+i+label {
+    font-weight: 300;
+    font-size: 22px;
+}
+
+
+/*——————————————
+TimeLine CSS with the modifications for the black theme
+———————————————*
+
+/* Timeline */
+
+.timeline {
+    color: #fff;
+}
+
+.timeline .event:before {
+    left: -177.5px;
+    color: white;
+    content: attr(data-date);
+    text-align: right;
+    font-size: 16px;
+    min-width: 120px;
+}
+
+
+/* Responsive thingy */
+
+@media screen and (min-device-width: 500px) {
+    #mobile {
+        display: none;
+    }
+    i {
+        color: white;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #desktop {
+        display: none;
+    }
+    #mobile {
+        display: block;
+    }
+}

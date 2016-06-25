@@ -1,0 +1,116 @@
+* {
+    font-size: 20px;
+}
+
+p {
+    text-align: justify;
+}
+
+.card.perso {
+    min-height: 400px;
+    max-height: 400px;
+}
+
+.espace {
+    margin-left: 20px;
+    margin-right: 20px;
+    margin-top: 5px;
+}
+
+#desktop {
+    font-size: 20px;
+}
+
+
+/* Head style */
+
+#head {
+    padding-top: 10px;
+    padding-bottom: 90px;
+    box-shadow: inset -1px -5px 5px #212121;
+}
+
+#head h1 {
+    font-family: "Lato";
+    font-size: 300%;
+    color: white;
+    font-weight: 200;
+    margin-bottom: 20px;
+}
+
+#head .subtitle {
+    font-family: "Lucida Sans Typewriter";
+    height: 30px;
+    font-size: 30px;
+    color: white;
+    text-align: center;
+}
+
+
+/* about me */
+
+#wrapperMe {
+    float: left;
+    transform: skew(-20deg);
+    overflow: hidden;
+    width: 165px;
+    height: 165px;
+    margin-right: 3%;
+    box-shadow: 0px 1px 5px #212121;
+}
+
+#wrapperMe img {
+    max-width: 100%;
+    max-height: 100%;
+    margin-left: -75px;
+    margin-top: -75px;
+    position: relative;
+    top: 40%;
+    left: 50%;
+    transform: skew(20deg) scale(1.5);
+}
+
+.aboutmeText {
+    text-align: justify;
+    position: relative;
+}
+
+
+/* MAD SKILLZ */
+
+.skills {
+    width: 190px;
+    height: 200px;
+}
+
+
+/* Projects */
+
+.wrapperModal {
+    position: relative;
+    width: 100%;
+    max-height: 300px;
+    overflow: hidden;
+}
+
+.wrapperModal img {
+    width: 100%;
+}
+
+
+/* Responsive thingy */
+
+@media screen and (min-device-width: 500px) {
+    #mobile {
+        display: none;
+    }
+}
+
+@media screen and (max-width: 500px) {
+    #desktop {
+        display: none;
+    }
+    #mobile {
+        display: block;
+    }
+}

@@ -1,0 +1,17 @@
+@font-face {
+    font-family: "Roboto";
+    font-weight: 200;
+    src: local("Roboto Thin"), url("css/font/roboto/Roboto-Thin.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 300;
+    src: local("Roboto Light"), url("css/font/roboto/Roboto-Light.woff2") format("woff2");
+}
+
+@font-face {
+    font-family: "Roboto";
+    font-weight: 400;
+    src: local("Roboto regular"), url("css/font/roboto/Roboto-Regular.woff2") format("woff2");
+}

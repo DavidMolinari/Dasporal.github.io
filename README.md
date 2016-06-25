@@ -5,18 +5,4 @@ Anyway, if you're still reading this, then you should know that I mainly used [M
 * I love everything that's kind of open source-ish, so eh, no private repo.
 * I believe versioning is one of the greatest thing in this universe, and I need to have access to it anywhere and Github was the easiest and fastest solution.
 
-## Previews !
-
-Please keep in mind that these previews are works in progress.
-
-Desktop preview : 
-
-COMING SOON. 
-
-![portfoliodesktop](/ressources/gif/portfoliodesktop.gif)
-
-Mobile preview :
-
-COMING SOON. 
-
-![portfoliomobile](/ressources/gif/portfoliomobile.gif)
+Available [here](http://dasporal.github.io).

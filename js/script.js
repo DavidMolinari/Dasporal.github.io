@@ -8,6 +8,7 @@ $(document).ready(function () {
     $('.experiencesContent').clone().appendTo($('#experiencesMob'))
     $('.contactContent').clone().appendTo($('#contactMob'))
     $('.modal-trigger').leanModal();
+
     $('#btnTheme').click(function () {
         if ($('#theme').attr('href') == 'css/blackTheme.css') {
             $('#theme').attr('href', 'css/defaultTheme.css');

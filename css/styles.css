@@ -6,6 +6,11 @@ p {
     text-align: justify;
 }
 
+.material-icons {
+    text-rendering: optimizeLegibility;
+    font-feature-settings: 'liga';
+}
+
 .card.perso {
     min-height: 400px;
     max-height: 400px;

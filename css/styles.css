@@ -47,7 +47,7 @@ p {
 }
 
 #head .subtitle {
-    font-family: "Lucida Sans Typewriter";
+    font-family: "Lucida Sans Typewriter", sans-serif;
     height: 30px;
     font-size: 30px;
     color: white;

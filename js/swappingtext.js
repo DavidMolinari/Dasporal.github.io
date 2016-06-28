@@ -6,7 +6,7 @@ var subtitles = [
     "Privacy warrior",
     "Fractal Hexagon's overlord",
     "Lasagna lover",
-    "Software developper (once in a while)",
+    "Software developer (once in a while)",
     "Translator (when asked)",
     "ALLORESTO evangelist",
     "Kebab master",

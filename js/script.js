@@ -6,7 +6,6 @@ $(document).ready(function () {
     $('.skillsContent').clone().appendTo($('#skillsMob'))
     $('.projectsContent').clone().appendTo($('#projectMob'))
     $('.experiencesContent').clone().appendTo($('#experiencesMob'))
-    $('.contactContent').clone().appendTo($('#contactMob'))
     $('.modal-trigger').leanModal();
 
     $('#btnTheme').click(function () {

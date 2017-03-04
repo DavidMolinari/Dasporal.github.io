@@ -16,7 +16,9 @@ i+label {
     font-size: 22px;
 }
 
-
+.cardLittle{
+    height: 250px;
+}
 /*——————————————
 TimeLine CSS with the modifications for the black theme
 ———————————————*

@@ -1,0 +1,60 @@
+{
+	"projetsGrands": [
+		{
+			"projetGrand": {
+				"nom": "Aperture Social Communications",
+				"image": "ressources/projects/ASC.png",
+				"description": "A CLI Twitter client. I needed a light client and none of the existing solutions were appealing enough to me, so I decided to create my own.",
+				"liens": [
+					{
+						"lien": "https://github.com/Dasporal/Aperture-Social-Communications",
+						"texte": "See on Github"
+					}
+				]
+			}
+		},
+		{
+			"projetGrand": {
+				"nom": "snwflk reborn",
+				"image": "ressources/projects/snflkw.png",
+				"description": "A Chrome extension made to learn how to create them. Before, snwflk was just a collection CSS stylesheets to refresh the interface of <a target='_blank' href='https://tweetdeck.twitter.com/'>Tweetdeck</a>. The extension allows a seamsless updates of the stylesheets, plus tthe possibility to adjust options without having to read the code.",
+				"liens": [
+					{
+						"lien": "https://github.com/snwdrp/snwflk-reborn",
+						"texte": "See on  Github"
+					},
+					{
+						"lien": "https://chrome.google.com/webstore/detail/snwflk-reborn/fjfghfnalllhhknfhclmmamdjbjhfohb",
+						"texte": "See on Chrome Web Store"
+					}
+				]
+			}
+		}
+	],
+    	"projetsPetits": [
+		{
+			"projetPetit": {
+				"nom": "Pyrtal",
+				"description": "A school group project made in a month with my friend <a href='https://github.com/Shadorc'>Shadorc</a> that's basically Portal in 2D written in Python. Since we couldn't use existing libraries, we had to come up with our own solutions and it was a pretty great challenge.",
+				"liens": [
+					{
+						"lien": "https://github.com/Shadorc/Pyrtal",
+						"texte": "See on Github"
+					}
+				]
+			}
+		},
+		{
+			"projetPetit": {
+				"nom": "Graphic Penis Generator",
+				"description": "Pretty self-explanatory, isn't it? Moral is, don't make stupid bets. But still, it was a fun way to toy with C#.",
+				"liens": [
+					{
+						"lien": "https://github.com/Dasporal/GraphicPenisGenerator",
+						"texte": "See on Github"
+					}
+				]
+			}
+		}
+	]
+}

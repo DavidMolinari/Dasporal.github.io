@@ -1,0 +1,39 @@
+{
+	"experiences": [
+		{
+			"experience": {
+				"date": "January 2017",
+				"intitule": "Work placement at Synexie in Toulon",
+				"details": "6 weeks long work placement in the IT development team at Synexie where I migrated and redesigned the website of the <a href='http://www.bacchus-fete.com/'>Bacchus</a> event."
+			}
+		},
+        {
+			"experience": {
+				"date": "May 2016",
+				"intitule": "Work placement at the C.H.I.T.S in Toulon",
+				"details": "6 weeks long work placement in the IT development team at the C.H.I.T.S allowed me to learn many things among how to prepare a project, how to present it to the clients and how to justify certain choices that I had made."
+			}
+		},
+        {
+			"experience": {
+				"date": "June 2015",
+				"intitule": "Baccalauréat",
+				"details": "Obtained the Baccalauréat (French secondary school diploma/high-school degree)."
+			}
+		},
+        {
+			"experience": {
+				"date": "2015 - Present",
+				"intitule": "ALLORESTO",
+				"details": "Community Ambassador."
+			}
+		},
+        {
+			"experience": {
+				"date": "March 2013",
+				"intitule": "Cambridge English Certificate",
+				"details": "Awarded 'Council of Europe Level B1 Pass' in the Cambridge English Certificate."
+			}
+		}
+	]
+}

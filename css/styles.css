@@ -1,7 +1,3 @@
-* {
-    font-size: 20px;
-}
-
 p {
     text-align: justify;
 }
@@ -155,12 +151,58 @@ p {
 
 /* MAD SKILLZ */
 
-svg,
-.skills {
-    width: 170px;
-    height: 180px;
+.icons{
+	display: flex;
+	flex-direction: row;
+	justify-content: center;
+	margin: 0;
+}
+.iconsline{
+	display: flex;
+	flex-direction: row;
+	justify-content: space-around;
+	min-width: 50%;
 }
 
+.compIcon{
+	width: 150px;
+	height: auto;
+	background: #FFFFFF;
+	padding-bottom: 8px;
+	box-shadow: 0 2px 5px 0 rgba(0, 0, 0, 0.26);
+	margin: 5px;
+	border-radius: 2px;
+	overflow: hidden;
+	transition: box-shadow 0.25s, width 0.75s, height 0.75s;
+}
+.compIcon:hover{
+	box-shadow: 0 8px 17px 0 rgba(0, 0, 0, 0.2);
+}
+.compIcon>h5{
+	margin-top : 5px;
+	margin-left: 10px;
+	margin-bottom: 5px;
+	color: #212121;
+	font-family: Roboto Condensed;
+	font-weight: normal;
+	position: relative;
+}
+.compIcon>img{
+	max-width: 100%;
+	height: auto;
+	position: relative;
+	top: 0;
+	transition: height 0.5s, width 0.5s;
+}
+
+/*--------- Competences Description -------------*/
+
+.chip-top-exp{
+	position: absolute !important;
+	width: 256px !important;
+	height: 256px !important;
+	z-index: 9999 !important;
+}
 
 /* Projects */
 
